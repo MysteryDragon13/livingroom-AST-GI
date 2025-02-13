@@ -22,6 +22,10 @@
 		{
 			"Name": "GPULightmass",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "2554716042"
